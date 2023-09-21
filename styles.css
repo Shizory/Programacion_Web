@@ -48,6 +48,11 @@ button {
     font-weight: 500;
 }
 
+/*posiblemente lo borremos*/
+.navbar li {
+    margin-bottom: 15px;
+}
+
 .actions {
     width: 15%;
     text-align: right;
